@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monstas/static/css/main.73e67267.chunk.css",
+    "main.js": "/monstas/static/js/main.36de3764.chunk.js",
+    "main.js.map": "/monstas/static/js/main.36de3764.chunk.js.map",
+    "runtime-main.js": "/monstas/static/js/runtime-main.f51a9b95.js",
+    "runtime-main.js.map": "/monstas/static/js/runtime-main.f51a9b95.js.map",
+    "static/js/2.866fd185.chunk.js": "/monstas/static/js/2.866fd185.chunk.js",
+    "static/js/2.866fd185.chunk.js.map": "/monstas/static/js/2.866fd185.chunk.js.map",
+    "index.html": "/monstas/index.html",
+    "precache-manifest.cdbe25830253d7b8fd7c6e4589ad57b3.js": "/monstas/precache-manifest.cdbe25830253d7b8fd7c6e4589ad57b3.js",
+    "service-worker.js": "/monstas/service-worker.js",
+    "static/css/main.73e67267.chunk.css.map": "/monstas/static/css/main.73e67267.chunk.css.map",
+    "static/js/2.866fd185.chunk.js.LICENSE.txt": "/monstas/static/js/2.866fd185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51a9b95.js",
+    "static/js/2.866fd185.chunk.js",
+    "static/css/main.73e67267.chunk.css",
+    "static/js/main.36de3764.chunk.js"
+  ]
+}
